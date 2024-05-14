@@ -37,6 +37,9 @@ div p {
 
 .inner-container {
   margin-top: 25px;
+}
+
+form {
   display: flex;
   justify-content: center;
   gap: 8px;
@@ -63,6 +66,15 @@ div p {
   color: #FFF;
   font-size: 1.25rem;
   text-align: center;
+}
+
+#result {
+  text-align: center;
+  margin-top: 25px;
+}
+
+#result p {
+  font-size: 1.5rem;
 }
 
 svg {
